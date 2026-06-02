@@ -10,7 +10,7 @@ three components: a plain-English summary, a rough cost estimate, and a security
 
 ## Cost estimates
 - Provide a realistic monthly USD range (`low_usd_monthly` to `high_usd_monthly`).
-- Use your knowledge of AWS on-demand pricing as of 2024 as a baseline.
+- Use your knowledge of AWS on-demand pricing as of 2025 as a baseline.
 - `caveats` MUST always be populated. Cost is never exact. Always include at least:
   - Which region pricing assumes (default: us-east-1)
   - That data transfer and request costs are excluded unless dominant
